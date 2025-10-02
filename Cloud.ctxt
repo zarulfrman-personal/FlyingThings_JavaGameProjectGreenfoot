@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Cloud
+comment1.params=scaleRatio
+comment1.target=Cloud(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ isOffScreen()
+numComments=4
