@@ -1,12 +1,4 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Flying Things
+PURPOSE OF PROJECT: A "Flappy Bird"-inspired game created using Java on Greenfoot. On behalf of a project during Computer Science degree.
+VERSION or DATE: 1 / 2022
+HOW TO START THIS PROJECT: Run using a Java compiler, preferably Greenfoot
